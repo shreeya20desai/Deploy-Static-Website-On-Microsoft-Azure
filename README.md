@@ -22,3 +22,4 @@ This project implements a visitor count for a static website using the Azure Fun
 
 - The website used in this project was designed during my personal freecodecamp certification.
 - For detailed steps and setup instructions, refer to the document attached.
+- The project development + documentation took 3 days.
